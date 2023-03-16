@@ -1,0 +1,27 @@
+L'environement viruel en python permet de regrouper les fonctionnalités d'un projet python dans un seul dossier.
+Cela permet de résoudre des problèmes de dépendances et ainsi créer des projets dans un dossier fermer.
+Pour ce faire voici les étapes :
+
+0 - Installer :
+        
+        Python (version au choix)
+        pip
+        virtual env : pip install virtualenv
+
+1 - Installation environement virutel avec virtualenv :
+    
+    Aller dans le dossier qui contiendra le projet en utilisant "cd" si besoin. puis executer la commande :
+
+        virtualenv nom_du_projet
+
+2 - Ouvrer le nouveau dossier créer dans le terminal en utilisant "cd" si besoin.
+
+3 - Activer votre environement virtuel avec la commande :
+
+        Scripts/activate
+
+     Votre dossier et votre machine virtuelle son maintenant lancé. tout ce qui sera executé dans ce dossier sera donc en projet fermer. Vous pouvez installer tout les modules pour votre projet
+
+4 - Desactiver l'environement virtuel avec la commande :
+
+        deactivate
