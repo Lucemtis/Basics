@@ -1,0 +1,21 @@
+0 - Installer Python (version au choix)
+
+1 - Rendez-vous dans le dossier pip contenant le fichier "get-pip.py" en utilisant la commande "cd"
+
+2 - Lancer le fichier "get-pip.py" avec la commande :
+
+        python get-pip.py
+
+        ou
+
+        py get-pip.py
+
+        ou
+
+        lancer le fichier à partir d'un lecteur comme VSCode
+
+3 - Vérifier que pip est bien installé, tapez la commande :
+
+        pip --version 
+        
+    dans l'invite de commande. Vous devriez voir s'afficher la version de pip installée.
