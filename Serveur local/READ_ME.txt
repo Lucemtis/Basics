@@ -23,7 +23,7 @@ Installation d'un serveur local pour un site web.
 
         // Définit la route pour la page d'accueil
             app.get('/', (req, res) => {
-            res.sendFile(__dirname + '/public/index.php');
+            res.sendFile(__dirname + '/public/index.html');
             });
 
         // Lancement du serveur
@@ -33,7 +33,7 @@ Installation d'un serveur local pour un site web.
 
 4 - Création du dossier "public" contenant tous les dossiers et fichiers du site web
 
-5 - Création du fichier "index.php" ou "index.html". selon le type du dossier, il faudra modifier le fichier app.js. Le dossier contiendra les bases soit ceci :
+5 - Création du fichier"index.html". Le dossier contiendra les bases soit ceci :
 
         <!DOCTYPE html>
             <html lang="fr"> 
