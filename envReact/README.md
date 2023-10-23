@@ -114,7 +114,3 @@ Now, when you build your project using `npm run build`, Vite will generate the f
 ## ❓ Support & Questions
 
 For any queries or support needs, please feel free to open an issue or [start a discussion](https://github.com/SECRET-GUEST/jsTemplate/discussions). 
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
