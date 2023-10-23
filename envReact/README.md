@@ -1,3 +1,4 @@
+MADE by 
 
 ```
      ██╗ █████╗ ██╗   ██╗ █████╗ ███████╗ ██████╗██████╗ ██╗██████╗ ████████╗    ████████╗███████╗███╗   ███╗██████╗ ██╗      █████╗ ████████╗███████╗███████╗
@@ -102,7 +103,7 @@ export default defineConfig({
 
 ```json
 {
-  "homepage": "https://toffeeshade.github.io/home/",
+  "homepage": "https://NAME.github.io/REPO/",
   ...
 }
 ```
